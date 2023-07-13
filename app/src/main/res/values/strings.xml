@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="select_user_name">Select User Name</string>
+    <string name="welcome">Welcome</string>
+</resources>
